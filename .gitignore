@@ -9,6 +9,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Game\ Experiments/[Ll]ibrary/
+/Game\ Experiments/[Tt]emp/
+/Game\ Experiments/[Oo]bj/
+/Game\ Experiments/[Bb]uild/
+/Game\ Experiments/[Bb]uilds/
+/Game\ Experiments/[Ll]ogs/
+/Game\ Experiments/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
